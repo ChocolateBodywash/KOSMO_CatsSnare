@@ -3,7 +3,7 @@
 
 ![](/IMG/Cats.jpg)
 
-A KOSMO format of a 808 Style Snare
+A KOSMO format module of a 808 Style Snare
 
 I wanted a 808 style snare, but I also wanted it to be as simple as possible (no accent, pitch cv, etc) so I blended two simple schematics together. 
 
